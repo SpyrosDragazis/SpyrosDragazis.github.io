@@ -1,0 +1,104 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Spyridon (Spyros) Konstantinos Dragazis
+    - name: Date of Birth
+      value: 18th May 1999
+    - name: Nationality
+      value: Canadian, Greek
+    - name: Pronouns
+      value: he/him/his
+    - name: Languages
+      value: English (C2), French (C1), Greek (native)
+    - name: Email
+      value: spyrosdrgz@gmail.com
+    - name: Phone
+      value: +1 857-234-7197
+    - name: LinkedIn
+      value: linkedin.com/in/spyros-dragazis
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Science
+      institution: Boston University, Boston, MA
+      year: 2023 - Present
+      description:
+        - "Advisor: Professor Aldo Pacchiano"
+        - "Research Interests: Reinforcement Learning, Bandit Algorithms, Optimization"
+        - Located at Center for Computing & Data Sciences
+    - title: M.S. in Computer Science
+      institution: Boston University, Boston, MA
+      year: 2023 - 2024
+      description:
+        - "Thesis: Contextual Bandits with Hard-safety Constraints"
+    - title: Integrated Master of Electrical and Computer Engineering (MEng ECE)
+      institution: National Technical University of Athens, Greece
+      year: 2017 - 2022
+      description:
+        - "GPA: 8.76/10"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Teaching Fellowship - DS 592
+      institution: Boston University - Introduction to Sequential Decision Making - Bandit Algorithms
+      year: Spring 2025
+    - title: Teaching Fellowship - CS 630
+      institution: Boston University - Advanced Algorithms
+      year: Fall 2024
+    - title: Teaching Fellowship - CS 237
+      institution: Boston University - Probability in Computing
+      year: Spring 2024
+    - title: Competitive Programming Instructor
+      institution: EPY Coding Summer School
+      year: 2023
+      description:
+        - Hellenic Association of Scientists and Professionals in Information Technology and Communications
+    - title: Lab Assistant
+      institution: National Technical University of Athens
+      year: 2018 - 2022
+      description:
+        - "Courses: Intro to Programming, Discrete Mathematics, Algorithms, and Complexity"
+    - title: Volunteer Teaching
+      institution: High School and University Level (1st-2nd year courses)
+      year: 2019 - 2021
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: "High probability contextual bandits for optimal dosage selection"
+      year: Under Submission
+    - title: "No-Regret Safety: Balancing Tests and Misclassification in Logistic Bandits"
+      year: Under Submission
+
+- title: Fellowships and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Dean's Fellowship - Boston University (Fall 24)
+        - G-Research travel grant (Summer 24)
+    - year: 2023 - Present
+      items:
+        - Full scholarship for doctoral studies - Boston University
+        - Eleni's Gatsogiannis scholarship for Boston University students
+    - year: 2021 - 2022
+      items:
+        - Costas M. Lemos Scholarship
+        - Gerondelis Scholarship
+
+- title: Educational Awards
+  type: time_table
+  contents:
+    - title: International Mathematics Competition (IMC 2019)
+      year: 2019
+      description:
+        - Honorable mention
+
+- title: Other Interests
+  type: list
+  contents:
+    - "<u>Sports:</u> Handball, Running, Hiking, Cycling"
+    - "<u>Games:</u> Chess"
