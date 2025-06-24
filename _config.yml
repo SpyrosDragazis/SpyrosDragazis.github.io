@@ -208,7 +208,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-tabs
   - jekyll-terser
-  - jekyll-toc
+  # - jekyll-toc  # Not supported by GitHub Pages
   - jekyll-twitter-plugin
   - jemoji
 
